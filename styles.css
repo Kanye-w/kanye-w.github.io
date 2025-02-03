@@ -1,0 +1,24 @@
+nav a{
+	border-radius:25px;
+	display:inline-block;
+	width:100px;
+	margin:10px;
+	padding:10px;
+	background-color:darkred;
+	color:Black;
+	text-align: centre;
+}
+body{
+	background-color:black;
+	color:darkred;
+	font-family:Bahnschrift SemiBold Condensed;
+	font-size:200%;
+	text-align: centre;
+}
+nav a:hover{background-color:red;
+}
+img{
+	border: 100px solid transparent;
+  padding: 15px;
+  border-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHtn5urpV73WKMK1HM4oBmukEuXX0jWsrdgdSSf6zC8kzcOPjrHDz4sO2DC8&s) 30 round;
+}
