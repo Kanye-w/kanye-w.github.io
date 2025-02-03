@@ -20,5 +20,4 @@ nav a:hover{background-color:red;
 img{
 	border: 100px solid transparent;
   padding: 15px;
-  border-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHtn5urpV73WKMK1HM4oBmukEuXX0jWsrdgdSSf6zC8kzcOPjrHDz4sO2DC8&s) 30 round;
 }
